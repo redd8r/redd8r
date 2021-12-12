@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @redd8r
-- 👀 I’m interested in python,java n js projects
+- 👀 I’m interested in AI, ML n js projects
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate and learn
 
