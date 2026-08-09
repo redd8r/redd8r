@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Rituraj
-- 👀 I’m interested in AI, ML n js projects
+- 👀 I’m interested in AI, ML projects
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate and learn
 
